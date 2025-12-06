@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Store</string>
+    <string name="company_name">Name of the company</string>
+    <string name="purchasable_items">Purchasable Items</string>
+    <string name="buy_button">Buy with 1-click</string>
+    <string name="purchase_confirmation">Acabou de comprar o item %1$s por %2$s</string>
+    
+    <string name="nav_featured">Featured</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    
+    <string name="cd_back">Voltar</string>
+    <string name="cd_notifications">Notificações</string>
+    <string name="cd_menu">Menu</string>
+    <string name="cd_favorite">Favorito</string>
+    <string name="cd_share">Partilhar</string>
+</resources>
